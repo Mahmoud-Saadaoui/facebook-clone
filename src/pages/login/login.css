@@ -153,21 +153,3 @@
   text-align: left;
   font-weight: 500;
 }
-
-/* .loginButton {
-  height: 48px;
-  border: none;
-  border-radius: 8px;
-  background: linear-gradient(180deg, #1877f2 0%, #166fe5 100%);
-  color: #fff;
-  font-size: 18px;
-  font-weight: 600;
-  cursor: pointer;
-  box-shadow: 0 4px 8px rgba(24, 119, 242, 0.25);
-  transition: all 0.25s ease;
-}
-
-.loginButton:hover {
-  background: linear-gradient(180deg, #166fe5 0%, #155fd0 100%);
-  transform: translateY(-2px);
-} */
